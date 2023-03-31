@@ -1,0 +1,102 @@
+ .u-section-1 {
+  background-image: url("images/photo_2023-03-30_20-50-20.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 970px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  background-image: none;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-form-1 {
+  width: 570px;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-form-group-1 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-1 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-2 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-2 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-3 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-3 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-4 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-4 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-5 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-5 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-form-group-6 {
+  margin-left: 0;
+}
+
+.u-section-1 .u-input-6 {
+  text-transform: uppercase;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  padding: 0;
+}
+
+.u-section-1 .u-btn-2 {
+  font-size: 1.5rem;
+  margin: -42px auto 0;
+}
+
+.u-section-1 .u-btn-3 {
+  font-size: 1.5rem;
+  margin: 30px auto 44px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-btn-1 {
+    border-style: solid;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-form-1 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-form-1 {
+    width: 340px;
+  }
+}
